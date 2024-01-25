@@ -63,13 +63,13 @@ Enter your text:
 
 ### 🥷 Train a new tokenizer
 
-To train a new tokenizer, run the `train.py` script, specifying the *\*number of merges* you would like to compute (default is 1000):
+To train a new tokenizer, run the `train.py` script, specifying the number of merges you would like to compute (default is 1000):
 
 ```
 python train.py -m 2000
 ```
 
-The tokenizer will be trained by default on the `shakespeare.txt` corpus which is already loaded in the directory, but you can swap this out for your own text corpus, as long as it's in a txt file. If you do choose to train on your own corpus, make sure you point to the corpus using the `-c` command:
+The tokenizer will be trained by default on the `shakespeare.txt` corpus which is already loaded in the directory, but you can swap this out for your own text corpus, as long as it's in a text file. If you do choose to train on your own corpus, make sure you point to the corpus using the `-c` command:
 
 ```
 python train.py -m 2000 -c amazon_reviews.txt
