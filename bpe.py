@@ -200,7 +200,7 @@ if __name__ == "__main__":
     # train tokenizer
     tokenizer = BPETokenizer()
     print("\n🥷 Training tokenizer:\n")
-    tokenizer.train(corpus, num_merges=1000, verbose=True)
+    tokenizer.train(corpus, num_merges=10000, verbose=True)
 
     # save tokenizer vocab and merge rules to json
     print("\n🚀 Saving tokenizer")
