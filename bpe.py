@@ -1,7 +1,7 @@
 import json
 
 def load_corpus() -> str:
-    return open("../shakespeare.txt", "r", encoding="utf-8").read()
+    return open("shakespeare.txt", "r", encoding="utf-8").read()
 
 class BPETokenizer:
     def __init__(self):

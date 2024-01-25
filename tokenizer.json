@@ -1,0 +1,5071 @@
+{
+    "vocab": [
+        "\n",
+        " ",
+        "!",
+        "$",
+        "&",
+        "'",
+        ",",
+        "-",
+        ".",
+        "3",
+        ":",
+        ";",
+        "?",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z",
+        "e ",
+        "th",
+        "t ",
+        "s ",
+        "d ",
+        ", ",
+        "ou",
+        "er",
+        "in",
+        "y ",
+        "an",
+        ":\n",
+        "or",
+        "o ",
+        "en",
+        "\n\n",
+        "ar",
+        "on",
+        "ll",
+        "ha",
+        ",\n",
+        "the ",
+        ".\n\n",
+        "is ",
+        "es",
+        "f ",
+        "you",
+        "I ",
+        "ll ",
+        "to ",
+        "and ",
+        "ow",
+        "ea",
+        "ing",
+        "wi",
+        "om",
+        "r ",
+        "st",
+        "er ",
+        "of ",
+        "th ",
+        "hi",
+        "se",
+        "no",
+        "or ",
+        "ch",
+        "my ",
+        "a ",
+        "ve ",
+        "in ",
+        "e, ",
+        "he ",
+        "the",
+        "li",
+        "re",
+        "at ",
+        "ing ",
+        "st ",
+        "An",
+        "ear",
+        "ti",
+        "oo",
+        "you ",
+        "gh",
+        "ri",
+        "en ",
+        "; ",
+        "ma",
+        "le",
+        "ra",
+        "And ",
+        "'s ",
+        "that ",
+        "not ",
+        "m ",
+        ";\n",
+        ".\n",
+        "on ",
+        "thou",
+        "la",
+        "ir",
+        "be",
+        "as ",
+        "his ",
+        "me ",
+        "hat ",
+        "ut ",
+        "ed ",
+        "ld ",
+        "sh",
+        "with ",
+        "ow ",
+        ": ",
+        "O:\n",
+        "ur",
+        "your ",
+        "ro",
+        "it",
+        "be ",
+        "an ",
+        "di",
+        "her",
+        "k ",
+        "me",
+        "it ",
+        "ch ",
+        "d, ",
+        "un",
+        "EN",
+        "for ",
+        "ke ",
+        "ce",
+        "y, ",
+        "for",
+        "ther",
+        "IN",
+        "at",
+        "?\n\n",
+        "fa",
+        "have ",
+        "S:\n",
+        "se ",
+        "es ",
+        "s, ",
+        "com",
+        "sa",
+        "l ",
+        "ee",
+        "our ",
+        ". ",
+        "ent",
+        "AR",
+        "ce ",
+        "this ",
+        "lo",
+        "thou ",
+        "n ",
+        "Th",
+        "le ",
+        "'d ",
+        "IO:\n",
+        "sha",
+        "sp",
+        "thy ",
+        "t, ",
+        "ta",
+        "rea",
+        "ould ",
+        "su",
+        "ly ",
+        "de",
+        "! ",
+        "US:\n",
+        "will ",
+        "but ",
+        "The ",
+        "con",
+        "ca",
+        "om ",
+        "ru",
+        "wh",
+        "we",
+        "si",
+        "ve",
+        "To ",
+        "wor",
+        "are ",
+        "d\n",
+        "ne",
+        "wa",
+        "ol",
+        "ver",
+        "da",
+        "ght",
+        "mor",
+        "ir ",
+        "mi",
+        "ood ",
+        "UC",
+        "man",
+        "by ",
+        "te",
+        "ING",
+        "up",
+        "ck",
+        "shall ",
+        "all ",
+        "ther ",
+        "s\n",
+        "so ",
+        "oun",
+        "mu",
+        "AN",
+        "Wh",
+        "lor",
+        "ER",
+        "et ",
+        "s,\n",
+        "OR",
+        "him ",
+        "res",
+        "ear ",
+        "mo",
+        "we ",
+        "him",
+        "sel",
+        "!\n",
+        "to",
+        "ET",
+        "here ",
+        "tt",
+        "That ",
+        "kn",
+        "rom ",
+        "po",
+        "qu",
+        "our",
+        "fe",
+        "vi",
+        "? ",
+        "do ",
+        "d,\n",
+        "do",
+        "!\n\n",
+        "ds ",
+        "her ",
+        "ere ",
+        "ge",
+        "pa",
+        "no ",
+        "'ll ",
+        "A:\n",
+        "ght ",
+        "ga",
+        "what ",
+        "KING",
+        "bl",
+        "hich ",
+        "?\n",
+        "ci",
+        "But ",
+        "fi",
+        "bo",
+        "est ",
+        "ong",
+        "he",
+        "from ",
+        "ou ",
+        "al",
+        "one ",
+        "so",
+        "sir",
+        "war",
+        "IC",
+        "dea",
+        "OL",
+        "us ",
+        "ess ",
+        "p ",
+        "hear",
+        "good ",
+        "hea",
+        "d.\n\n",
+        "fu",
+        "was ",
+        "' ",
+        "EL",
+        "if ",
+        "lea",
+        "ent ",
+        "IUS:\n",
+        "KING ",
+        "ARD",
+        "For ",
+        "us",
+        "e\n",
+        "row",
+        "ome ",
+        "min",
+        "of",
+        "par",
+        "--",
+        "ST",
+        "would ",
+        "My ",
+        "is",
+        "est",
+        "e,\n",
+        "their ",
+        "Wi",
+        "e.\n\n",
+        "ous ",
+        "ran",
+        "'t",
+        "I'll ",
+        "pro",
+        "am ",
+        "E:\n",
+        "gi",
+        "o, ",
+        "thin",
+        "ho",
+        "they ",
+        "ON",
+        "der",
+        "ver ",
+        "per",
+        "thee ",
+        "y\n",
+        "et",
+        "gra",
+        "sw",
+        "As ",
+        "bro",
+        "What ",
+        "more ",
+        "ble ",
+        "II",
+        "son",
+        "el",
+        "de ",
+        "king",
+        "ba",
+        "A ",
+        "she ",
+        "were ",
+        "ck ",
+        "s.\n\n",
+        "t\n",
+        "hath ",
+        "Ha",
+        "ge ",
+        "tru",
+        "go",
+        "tion",
+        "y.\n\n",
+        "gh ",
+        "like ",
+        "ARD ",
+        "make ",
+        "RO",
+        "du",
+        "TIO:\n",
+        "and",
+        "here",
+        "ni",
+        "pr",
+        "na",
+        "than ",
+        "ET:\n",
+        "AU",
+        "gain",
+        "may ",
+        "let ",
+        "mp",
+        "Y ",
+        "E ",
+        "w ",
+        "ll, ",
+        "You ",
+        "must ",
+        "mb",
+        "y,\n",
+        "es, ",
+        "pe",
+        "come ",
+        "irst ",
+        "fri",
+        "spea",
+        "them ",
+        "me, ",
+        "should ",
+        "end ",
+        "you, ",
+        "K:\n",
+        "ter",
+        "end",
+        "en, ",
+        "If ",
+        "upon ",
+        "self",
+        "CA",
+        "ICH",
+        "pp",
+        "RICH",
+        "can",
+        "which ",
+        "DU",
+        "DUK",
+        "fore ",
+        "DUKE ",
+        "sta",
+        "mar",
+        "had ",
+        "hon",
+        "then ",
+        "now ",
+        "how ",
+        "ac",
+        "gu",
+        "ven ",
+        "ome",
+        "ENTIO:\n",
+        "Go",
+        "ER:\n",
+        "ey",
+        "O ",
+        "own ",
+        "id ",
+        "pla",
+        "own",
+        "ts ",
+        "out ",
+        "ese ",
+        "ce, ",
+        "ence",
+        "Y:\n",
+        "ster",
+        "ig",
+        "ose ",
+        "O, ",
+        "INC",
+        "some ",
+        "ow, ",
+        "He ",
+        "ry ",
+        "loo",
+        "des",
+        "ful ",
+        "when ",
+        "again",
+        "very ",
+        "oul",
+        "gent",
+        "know ",
+        "ex",
+        "ven",
+        "did ",
+        "ence ",
+        "AB",
+        "il",
+        "there",
+        "Which ",
+        "op",
+        "cu",
+        "al ",
+        "sti",
+        "bu",
+        "ess",
+        "such ",
+        "hat",
+        "In ",
+        "erv",
+        "d:\n",
+        "man ",
+        "LO",
+        "say ",
+        "ure ",
+        "pri",
+        "With ",
+        "char",
+        "RICHARD ",
+        "First ",
+        "coun",
+        "take ",
+        "EST",
+        "I:\n",
+        "chi",
+        "most ",
+        "dy ",
+        "give ",
+        "pra",
+        "UCH",
+        "Of ",
+        "sin",
+        "sh ",
+        "lord",
+        "father",
+        "death",
+        "vo",
+        "GLO",
+        "GLOUC",
+        "GLOUCEST",
+        "GLOUCESTER:\n",
+        "that",
+        "yet ",
+        "these ",
+        "EEN",
+        "This ",
+        "Lor",
+        "well",
+        "Ma",
+        "sir, ",
+        "t,\n",
+        "LI",
+        "ment",
+        "sc",
+        "king ",
+        "love ",
+        "well ",
+        "ed",
+        "QU",
+        "QUEEN",
+        "VINC",
+        "VINCENTIO:\n",
+        "Mar",
+        "whi",
+        "Com",
+        "tion ",
+        "OF",
+        "OF ",
+        "ted ",
+        "thing ",
+        "can ",
+        "them",
+        "see ",
+        "t.\n\n",
+        "How ",
+        "ad",
+        "brea",
+        "HEN",
+        "self ",
+        "Thou ",
+        "Se",
+        "all",
+        "ang",
+        "lt ",
+        "af",
+        "ves ",
+        "grea",
+        "So ",
+        "HENR",
+        "HENRY ",
+        "tu",
+        "fo",
+        "'tis ",
+        "ES",
+        "sed ",
+        "rou",
+        "any ",
+        "tell ",
+        "lan",
+        "es\n",
+        "Is ",
+        "ORI",
+        "ab",
+        "go ",
+        "up ",
+        "ty ",
+        "ng",
+        "don",
+        "see",
+        "QUEEN ",
+        "ap",
+        "lif",
+        "pre",
+        "es,\n",
+        "jo",
+        "ES:\n",
+        "ught",
+        "YOR",
+        "YORK:\n",
+        "mine ",
+        "Your ",
+        "mer",
+        "pres",
+        "k, ",
+        "We ",
+        "love",
+        "INIUS:\n",
+        "too ",
+        "dee",
+        "er:\n",
+        "my",
+        "there ",
+        "swee",
+        "ju",
+        "PET",
+        "lu",
+        "It ",
+        "rie",
+        "th, ",
+        "never ",
+        "ind ",
+        "der ",
+        "'T",
+        "far",
+        "Ri",
+        "ED",
+        "EDW",
+        "made ",
+        "er, ",
+        "ers ",
+        "GR",
+        "Why, ",
+        ",--",
+        "TH",
+        "tra",
+        "art ",
+        "ter ",
+        "UM",
+        "MI",
+        "plea",
+        "co",
+        "MEN",
+        "ant",
+        "LE",
+        "LUC",
+        "time ",
+        "ss",
+        "ong ",
+        "IS",
+        "use ",
+        "less ",
+        "ELL",
+        "mon",
+        "'st ",
+        "hear ",
+        "cond ",
+        "lie",
+        "noble ",
+        "much ",
+        "que",
+        "doth ",
+        "cannot ",
+        "tw",
+        "urse",
+        "Ed",
+        "ME",
+        "hou",
+        "hat, ",
+        "iti",
+        "id",
+        "bloo",
+        "Edwar",
+        "ROME",
+        "ROMEO:\n",
+        "MENEN",
+        "MENENIUS:\n",
+        "Or ",
+        "No",
+        "ks ",
+        "pea",
+        "know",
+        "your",
+        "s:\n",
+        "tter ",
+        "ke",
+        "By ",
+        "awa",
+        "brother",
+        "ay, ",
+        "thing",
+        "wom",
+        "bea",
+        "PETR",
+        "PETRUCH",
+        "PETRUCHIO:\n",
+        "Be",
+        "OM",
+        "son ",
+        "think ",
+        "time",
+        "ban",
+        "prin",
+        "We",
+        "ld",
+        "God ",
+        "where ",
+        "When ",
+        "ant ",
+        "thee, ",
+        "lord, ",
+        "sea",
+        "Ay, ",
+        "new",
+        "shi",
+        "ser",
+        "Come, ",
+        "MAR",
+        "HA",
+        "ONT",
+        "re ",
+        "llow",
+        "now",
+        "Cl",
+        "Where ",
+        "been ",
+        "tor",
+        "CORI",
+        "CORIOL",
+        "CORIOLAN",
+        "Second ",
+        "with",
+        "speak ",
+        "too",
+        "nor ",
+        "Rome",
+        "CORIOLANUS:\n",
+        "other ",
+        "ate ",
+        "zen",
+        "being ",
+        "ble",
+        "sor",
+        "dam",
+        "tri",
+        "crow",
+        "har",
+        "ct ",
+        "s;\n",
+        "thi",
+        "ve, ",
+        "foo",
+        "BA",
+        "off",
+        "fair ",
+        "men",
+        "goo",
+        "tur",
+        "ish",
+        "te ",
+        "old ",
+        "ound ",
+        "gar",
+        "daught",
+        "gentle",
+        "d's ",
+        "INA:\n",
+        "row ",
+        "tun",
+        "ving ",
+        "Lord ",
+        "IV",
+        "D:\n",
+        "'er ",
+        "fl",
+        "fear",
+        "III:\n",
+        "ved ",
+        "Than ",
+        "night",
+        "ness ",
+        "car",
+        "as",
+        "bra",
+        "br",
+        "y.\n",
+        "man:\n",
+        "War",
+        "great ",
+        "ever ",
+        "wee",
+        "Warwi",
+        "s; ",
+        "sweet ",
+        "st, ",
+        "pi",
+        "cont",
+        "Un",
+        "cl",
+        "beg",
+        "ys ",
+        "ongu",
+        "sla",
+        "His ",
+        "ing, ",
+        "AD",
+        "swor",
+        "'Tis ",
+        "ISAB",
+        "ISABELL",
+        "ISABELLA:\n",
+        "y:\n",
+        "hast ",
+        "poor ",
+        "d; ",
+        "tongu",
+        "Who ",
+        "y; ",
+        "pow",
+        "RAN",
+        "cor",
+        "'t ",
+        "who ",
+        "red ",
+        "ain",
+        "Let ",
+        "him, ",
+        "men ",
+        "not, ",
+        "it, ",
+        "ten",
+        "cha",
+        "And, ",
+        "kee",
+        "many ",
+        "than",
+        "JU",
+        "JULI",
+        "JULIET:\n",
+        "LEONT",
+        "LEONTES:\n",
+        "e's ",
+        "d;\n",
+        "kin",
+        "comes ",
+        "Bu",
+        "eng",
+        "before ",
+        "ul",
+        "litt",
+        "ears ",
+        "LAD",
+        "LADY ",
+        "ene",
+        "ity ",
+        "cour",
+        "VOL",
+        "thee",
+        "Pro",
+        "sle",
+        "ENC",
+        "ENCE:\n",
+        "pur",
+        "ce,\n",
+        "BR",
+        "s.\n",
+        "Then ",
+        "ster ",
+        "Citi",
+        "Citizen",
+        "though ",
+        "s: ",
+        "friend",
+        "se, ",
+        "y's ",
+        "dst ",
+        "hor",
+        "not",
+        "ck, ",
+        "life",
+        "hand",
+        "The",
+        "tch",
+        "Serv",
+        "Nay, ",
+        "tter",
+        "mean",
+        "SIC",
+        "SICINIUS:\n",
+        "What, ",
+        "soul",
+        "ve\n",
+        "hat's ",
+        "one",
+        "Sha",
+        "honour",
+        "spi",
+        "ep",
+        "ft ",
+        "wo",
+        "father ",
+        "ance ",
+        "will",
+        "kes ",
+        "ign",
+        "arm",
+        "and\n",
+        "and, ",
+        "look ",
+        "leave ",
+        "on, ",
+        "No, ",
+        "day ",
+        "grie",
+        "young",
+        "ill ",
+        "hel",
+        "him.\n\n",
+        "Be ",
+        "cious ",
+        "cou",
+        "against ",
+        "till ",
+        "bear ",
+        "dis",
+        "urder",
+        "LUCIO:\n",
+        "Not ",
+        "sub",
+        "call ",
+        "TI",
+        "im",
+        "those ",
+        "to-",
+        "Richar",
+        "EDWARD ",
+        "IV:\n",
+        "cur",
+        "the\n",
+        "wr",
+        "ARD:\n",
+        "LO:\n",
+        "str",
+        "both ",
+        "hop",
+        "tal",
+        "you.\n\n",
+        "Have ",
+        "dly ",
+        "mother",
+        "ry, ",
+        "Yor",
+        "speak",
+        "Ca",
+        "rep",
+        "it.\n\n",
+        "Her",
+        "ine ",
+        "Now ",
+        "Thy ",
+        "Hen",
+        "H:\n",
+        "way ",
+        "stand ",
+        "ce\n",
+        "ELI",
+        "ELIZ",
+        "ELIZAB",
+        "ELIZABET",
+        "ELIZABETH:\n",
+        "fir",
+        "thus ",
+        "bes",
+        "ree ",
+        "bur",
+        "oul ",
+        "o' ",
+        "Sir",
+        "hus",
+        "roy",
+        "GRE",
+        "IAN",
+        "peop",
+        "unto ",
+        "sen",
+        "llow ",
+        "cause ",
+        "set ",
+        "dd",
+        "t's ",
+        "dou",
+        "S ",
+        "ss ",
+        "CL",
+        "little ",
+        "l, ",
+        "true ",
+        "happ",
+        "MER",
+        "PER",
+        "d.\n",
+        "ff",
+        "cei",
+        "comp",
+        "Now, ",
+        "qui",
+        "Good ",
+        "WAR",
+        "WARW",
+        "WARWIC",
+        "WARWICK:\n",
+        "Citizen:\n",
+        "ting ",
+        "crown",
+        "land",
+        "am",
+        "UT",
+        "II:\n",
+        "--\n",
+        "this",
+        "'d\n",
+        "drea",
+        "Nurse",
+        "se\n",
+        "er.\n\n",
+        "now, ",
+        "win",
+        "come, ",
+        "HAM",
+        "HAM:\n",
+        "No ",
+        "nat",
+        "ore ",
+        "ec",
+        "heart ",
+        "CAP",
+        "CAPU",
+        "CAPUL"
+    ],
+    "merges": [
+        [
+            "e",
+            " "
+        ],
+        [
+            "t",
+            "h"
+        ],
+        [
+            "t",
+            " "
+        ],
+        [
+            "s",
+            " "
+        ],
+        [
+            "d",
+            " "
+        ],
+        [
+            ",",
+            " "
+        ],
+        [
+            "o",
+            "u"
+        ],
+        [
+            "e",
+            "r"
+        ],
+        [
+            "i",
+            "n"
+        ],
+        [
+            "y",
+            " "
+        ],
+        [
+            "a",
+            "n"
+        ],
+        [
+            ":",
+            "\n"
+        ],
+        [
+            "o",
+            "r"
+        ],
+        [
+            "o",
+            " "
+        ],
+        [
+            "e",
+            "n"
+        ],
+        [
+            "\n",
+            "\n"
+        ],
+        [
+            "a",
+            "r"
+        ],
+        [
+            "o",
+            "n"
+        ],
+        [
+            "l",
+            "l"
+        ],
+        [
+            "h",
+            "a"
+        ],
+        [
+            ",",
+            "\n"
+        ],
+        [
+            "th",
+            "e "
+        ],
+        [
+            ".",
+            "\n\n"
+        ],
+        [
+            "i",
+            "s "
+        ],
+        [
+            "e",
+            "s"
+        ],
+        [
+            "f",
+            " "
+        ],
+        [
+            "y",
+            "ou"
+        ],
+        [
+            "I",
+            " "
+        ],
+        [
+            "ll",
+            " "
+        ],
+        [
+            "t",
+            "o "
+        ],
+        [
+            "an",
+            "d "
+        ],
+        [
+            "o",
+            "w"
+        ],
+        [
+            "e",
+            "a"
+        ],
+        [
+            "in",
+            "g"
+        ],
+        [
+            "w",
+            "i"
+        ],
+        [
+            "o",
+            "m"
+        ],
+        [
+            "r",
+            " "
+        ],
+        [
+            "s",
+            "t"
+        ],
+        [
+            "er",
+            " "
+        ],
+        [
+            "o",
+            "f "
+        ],
+        [
+            "th",
+            " "
+        ],
+        [
+            "h",
+            "i"
+        ],
+        [
+            "s",
+            "e"
+        ],
+        [
+            "n",
+            "o"
+        ],
+        [
+            "or",
+            " "
+        ],
+        [
+            "c",
+            "h"
+        ],
+        [
+            "m",
+            "y "
+        ],
+        [
+            "a",
+            " "
+        ],
+        [
+            "v",
+            "e "
+        ],
+        [
+            "in",
+            " "
+        ],
+        [
+            "e",
+            ", "
+        ],
+        [
+            "h",
+            "e "
+        ],
+        [
+            "th",
+            "e"
+        ],
+        [
+            "l",
+            "i"
+        ],
+        [
+            "r",
+            "e"
+        ],
+        [
+            "a",
+            "t "
+        ],
+        [
+            "ing",
+            " "
+        ],
+        [
+            "s",
+            "t "
+        ],
+        [
+            "A",
+            "n"
+        ],
+        [
+            "e",
+            "ar"
+        ],
+        [
+            "t",
+            "i"
+        ],
+        [
+            "o",
+            "o"
+        ],
+        [
+            "you",
+            " "
+        ],
+        [
+            "g",
+            "h"
+        ],
+        [
+            "r",
+            "i"
+        ],
+        [
+            "en",
+            " "
+        ],
+        [
+            ";",
+            " "
+        ],
+        [
+            "m",
+            "a"
+        ],
+        [
+            "l",
+            "e"
+        ],
+        [
+            "r",
+            "a"
+        ],
+        [
+            "An",
+            "d "
+        ],
+        [
+            "'",
+            "s "
+        ],
+        [
+            "th",
+            "at "
+        ],
+        [
+            "no",
+            "t "
+        ],
+        [
+            "m",
+            " "
+        ],
+        [
+            ";",
+            "\n"
+        ],
+        [
+            ".",
+            "\n"
+        ],
+        [
+            "on",
+            " "
+        ],
+        [
+            "th",
+            "ou"
+        ],
+        [
+            "l",
+            "a"
+        ],
+        [
+            "i",
+            "r"
+        ],
+        [
+            "b",
+            "e"
+        ],
+        [
+            "a",
+            "s "
+        ],
+        [
+            "h",
+            "is "
+        ],
+        [
+            "m",
+            "e "
+        ],
+        [
+            "ha",
+            "t "
+        ],
+        [
+            "u",
+            "t "
+        ],
+        [
+            "e",
+            "d "
+        ],
+        [
+            "l",
+            "d "
+        ],
+        [
+            "s",
+            "h"
+        ],
+        [
+            "wi",
+            "th "
+        ],
+        [
+            "ow",
+            " "
+        ],
+        [
+            ":",
+            " "
+        ],
+        [
+            "O",
+            ":\n"
+        ],
+        [
+            "u",
+            "r"
+        ],
+        [
+            "you",
+            "r "
+        ],
+        [
+            "r",
+            "o"
+        ],
+        [
+            "i",
+            "t"
+        ],
+        [
+            "b",
+            "e "
+        ],
+        [
+            "an",
+            " "
+        ],
+        [
+            "d",
+            "i"
+        ],
+        [
+            "h",
+            "er"
+        ],
+        [
+            "k",
+            " "
+        ],
+        [
+            "m",
+            "e"
+        ],
+        [
+            "i",
+            "t "
+        ],
+        [
+            "ch",
+            " "
+        ],
+        [
+            "d",
+            ", "
+        ],
+        [
+            "u",
+            "n"
+        ],
+        [
+            "E",
+            "N"
+        ],
+        [
+            "f",
+            "or "
+        ],
+        [
+            "k",
+            "e "
+        ],
+        [
+            "c",
+            "e"
+        ],
+        [
+            "y",
+            ", "
+        ],
+        [
+            "f",
+            "or"
+        ],
+        [
+            "th",
+            "er"
+        ],
+        [
+            "I",
+            "N"
+        ],
+        [
+            "a",
+            "t"
+        ],
+        [
+            "?",
+            "\n\n"
+        ],
+        [
+            "f",
+            "a"
+        ],
+        [
+            "ha",
+            "ve "
+        ],
+        [
+            "S",
+            ":\n"
+        ],
+        [
+            "s",
+            "e "
+        ],
+        [
+            "e",
+            "s "
+        ],
+        [
+            "s",
+            ", "
+        ],
+        [
+            "c",
+            "om"
+        ],
+        [
+            "s",
+            "a"
+        ],
+        [
+            "l",
+            " "
+        ],
+        [
+            "e",
+            "e"
+        ],
+        [
+            "ou",
+            "r "
+        ],
+        [
+            ".",
+            " "
+        ],
+        [
+            "en",
+            "t"
+        ],
+        [
+            "A",
+            "R"
+        ],
+        [
+            "c",
+            "e "
+        ],
+        [
+            "th",
+            "is "
+        ],
+        [
+            "l",
+            "o"
+        ],
+        [
+            "thou",
+            " "
+        ],
+        [
+            "n",
+            " "
+        ],
+        [
+            "T",
+            "h"
+        ],
+        [
+            "l",
+            "e "
+        ],
+        [
+            "'",
+            "d "
+        ],
+        [
+            "I",
+            "O:\n"
+        ],
+        [
+            "s",
+            "ha"
+        ],
+        [
+            "s",
+            "p"
+        ],
+        [
+            "th",
+            "y "
+        ],
+        [
+            "t",
+            ", "
+        ],
+        [
+            "t",
+            "a"
+        ],
+        [
+            "r",
+            "ea"
+        ],
+        [
+            "ou",
+            "ld "
+        ],
+        [
+            "s",
+            "u"
+        ],
+        [
+            "l",
+            "y "
+        ],
+        [
+            "d",
+            "e"
+        ],
+        [
+            "!",
+            " "
+        ],
+        [
+            "U",
+            "S:\n"
+        ],
+        [
+            "wi",
+            "ll "
+        ],
+        [
+            "b",
+            "ut "
+        ],
+        [
+            "T",
+            "he "
+        ],
+        [
+            "c",
+            "on"
+        ],
+        [
+            "c",
+            "a"
+        ],
+        [
+            "om",
+            " "
+        ],
+        [
+            "r",
+            "u"
+        ],
+        [
+            "w",
+            "h"
+        ],
+        [
+            "w",
+            "e"
+        ],
+        [
+            "s",
+            "i"
+        ],
+        [
+            "v",
+            "e"
+        ],
+        [
+            "T",
+            "o "
+        ],
+        [
+            "w",
+            "or"
+        ],
+        [
+            "ar",
+            "e "
+        ],
+        [
+            "d",
+            "\n"
+        ],
+        [
+            "n",
+            "e"
+        ],
+        [
+            "w",
+            "a"
+        ],
+        [
+            "o",
+            "l"
+        ],
+        [
+            "v",
+            "er"
+        ],
+        [
+            "d",
+            "a"
+        ],
+        [
+            "gh",
+            "t"
+        ],
+        [
+            "m",
+            "or"
+        ],
+        [
+            "i",
+            "r "
+        ],
+        [
+            "m",
+            "i"
+        ],
+        [
+            "oo",
+            "d "
+        ],
+        [
+            "U",
+            "C"
+        ],
+        [
+            "m",
+            "an"
+        ],
+        [
+            "b",
+            "y "
+        ],
+        [
+            "t",
+            "e"
+        ],
+        [
+            "IN",
+            "G"
+        ],
+        [
+            "u",
+            "p"
+        ],
+        [
+            "c",
+            "k"
+        ],
+        [
+            "sha",
+            "ll "
+        ],
+        [
+            "a",
+            "ll "
+        ],
+        [
+            "th",
+            "er "
+        ],
+        [
+            "s",
+            "\n"
+        ],
+        [
+            "s",
+            "o "
+        ],
+        [
+            "ou",
+            "n"
+        ],
+        [
+            "m",
+            "u"
+        ],
+        [
+            "A",
+            "N"
+        ],
+        [
+            "W",
+            "h"
+        ],
+        [
+            "l",
+            "or"
+        ],
+        [
+            "E",
+            "R"
+        ],
+        [
+            "e",
+            "t "
+        ],
+        [
+            "s",
+            ",\n"
+        ],
+        [
+            "O",
+            "R"
+        ],
+        [
+            "hi",
+            "m "
+        ],
+        [
+            "r",
+            "es"
+        ],
+        [
+            "ear",
+            " "
+        ],
+        [
+            "m",
+            "o"
+        ],
+        [
+            "w",
+            "e "
+        ],
+        [
+            "hi",
+            "m"
+        ],
+        [
+            "se",
+            "l"
+        ],
+        [
+            "!",
+            "\n"
+        ],
+        [
+            "t",
+            "o"
+        ],
+        [
+            "E",
+            "T"
+        ],
+        [
+            "her",
+            "e "
+        ],
+        [
+            "t",
+            "t"
+        ],
+        [
+            "T",
+            "hat "
+        ],
+        [
+            "k",
+            "n"
+        ],
+        [
+            "r",
+            "om "
+        ],
+        [
+            "p",
+            "o"
+        ],
+        [
+            "q",
+            "u"
+        ],
+        [
+            "ou",
+            "r"
+        ],
+        [
+            "f",
+            "e"
+        ],
+        [
+            "v",
+            "i"
+        ],
+        [
+            "?",
+            " "
+        ],
+        [
+            "d",
+            "o "
+        ],
+        [
+            "d",
+            ",\n"
+        ],
+        [
+            "d",
+            "o"
+        ],
+        [
+            "!",
+            "\n\n"
+        ],
+        [
+            "d",
+            "s "
+        ],
+        [
+            "h",
+            "er "
+        ],
+        [
+            "er",
+            "e "
+        ],
+        [
+            "g",
+            "e"
+        ],
+        [
+            "p",
+            "a"
+        ],
+        [
+            "n",
+            "o "
+        ],
+        [
+            "'",
+            "ll "
+        ],
+        [
+            "A",
+            ":\n"
+        ],
+        [
+            "gh",
+            "t "
+        ],
+        [
+            "g",
+            "a"
+        ],
+        [
+            "w",
+            "hat "
+        ],
+        [
+            "K",
+            "ING"
+        ],
+        [
+            "b",
+            "l"
+        ],
+        [
+            "hi",
+            "ch "
+        ],
+        [
+            "?",
+            "\n"
+        ],
+        [
+            "c",
+            "i"
+        ],
+        [
+            "B",
+            "ut "
+        ],
+        [
+            "f",
+            "i"
+        ],
+        [
+            "b",
+            "o"
+        ],
+        [
+            "es",
+            "t "
+        ],
+        [
+            "on",
+            "g"
+        ],
+        [
+            "h",
+            "e"
+        ],
+        [
+            "f",
+            "rom "
+        ],
+        [
+            "ou",
+            " "
+        ],
+        [
+            "a",
+            "l"
+        ],
+        [
+            "on",
+            "e "
+        ],
+        [
+            "s",
+            "o"
+        ],
+        [
+            "s",
+            "ir"
+        ],
+        [
+            "w",
+            "ar"
+        ],
+        [
+            "I",
+            "C"
+        ],
+        [
+            "d",
+            "ea"
+        ],
+        [
+            "O",
+            "L"
+        ],
+        [
+            "u",
+            "s "
+        ],
+        [
+            "es",
+            "s "
+        ],
+        [
+            "p",
+            " "
+        ],
+        [
+            "h",
+            "ear"
+        ],
+        [
+            "g",
+            "ood "
+        ],
+        [
+            "h",
+            "ea"
+        ],
+        [
+            "d",
+            ".\n\n"
+        ],
+        [
+            "f",
+            "u"
+        ],
+        [
+            "w",
+            "as "
+        ],
+        [
+            "'",
+            " "
+        ],
+        [
+            "E",
+            "L"
+        ],
+        [
+            "i",
+            "f "
+        ],
+        [
+            "l",
+            "ea"
+        ],
+        [
+            "en",
+            "t "
+        ],
+        [
+            "I",
+            "US:\n"
+        ],
+        [
+            "KING",
+            " "
+        ],
+        [
+            "AR",
+            "D"
+        ],
+        [
+            "F",
+            "or "
+        ],
+        [
+            "u",
+            "s"
+        ],
+        [
+            "e",
+            "\n"
+        ],
+        [
+            "r",
+            "ow"
+        ],
+        [
+            "om",
+            "e "
+        ],
+        [
+            "m",
+            "in"
+        ],
+        [
+            "o",
+            "f"
+        ],
+        [
+            "p",
+            "ar"
+        ],
+        [
+            "-",
+            "-"
+        ],
+        [
+            "S",
+            "T"
+        ],
+        [
+            "w",
+            "ould "
+        ],
+        [
+            "M",
+            "y "
+        ],
+        [
+            "i",
+            "s"
+        ],
+        [
+            "es",
+            "t"
+        ],
+        [
+            "e",
+            ",\n"
+        ],
+        [
+            "the",
+            "ir "
+        ],
+        [
+            "W",
+            "i"
+        ],
+        [
+            "e",
+            ".\n\n"
+        ],
+        [
+            "ou",
+            "s "
+        ],
+        [
+            "r",
+            "an"
+        ],
+        [
+            "'",
+            "t"
+        ],
+        [
+            "I",
+            "'ll "
+        ],
+        [
+            "p",
+            "ro"
+        ],
+        [
+            "a",
+            "m "
+        ],
+        [
+            "E",
+            ":\n"
+        ],
+        [
+            "g",
+            "i"
+        ],
+        [
+            "o",
+            ", "
+        ],
+        [
+            "th",
+            "in"
+        ],
+        [
+            "h",
+            "o"
+        ],
+        [
+            "the",
+            "y "
+        ],
+        [
+            "O",
+            "N"
+        ],
+        [
+            "d",
+            "er"
+        ],
+        [
+            "v",
+            "er "
+        ],
+        [
+            "p",
+            "er"
+        ],
+        [
+            "the",
+            "e "
+        ],
+        [
+            "y",
+            "\n"
+        ],
+        [
+            "e",
+            "t"
+        ],
+        [
+            "g",
+            "ra"
+        ],
+        [
+            "s",
+            "w"
+        ],
+        [
+            "A",
+            "s "
+        ],
+        [
+            "b",
+            "ro"
+        ],
+        [
+            "W",
+            "hat "
+        ],
+        [
+            "mor",
+            "e "
+        ],
+        [
+            "b",
+            "le "
+        ],
+        [
+            "I",
+            "I"
+        ],
+        [
+            "s",
+            "on"
+        ],
+        [
+            "e",
+            "l"
+        ],
+        [
+            "d",
+            "e "
+        ],
+        [
+            "k",
+            "ing"
+        ],
+        [
+            "b",
+            "a"
+        ],
+        [
+            "A",
+            " "
+        ],
+        [
+            "s",
+            "he "
+        ],
+        [
+            "w",
+            "ere "
+        ],
+        [
+            "c",
+            "k "
+        ],
+        [
+            "s",
+            ".\n\n"
+        ],
+        [
+            "t",
+            "\n"
+        ],
+        [
+            "ha",
+            "th "
+        ],
+        [
+            "H",
+            "a"
+        ],
+        [
+            "g",
+            "e "
+        ],
+        [
+            "t",
+            "ru"
+        ],
+        [
+            "g",
+            "o"
+        ],
+        [
+            "ti",
+            "on"
+        ],
+        [
+            "y",
+            ".\n\n"
+        ],
+        [
+            "gh",
+            " "
+        ],
+        [
+            "li",
+            "ke "
+        ],
+        [
+            "ARD",
+            " "
+        ],
+        [
+            "ma",
+            "ke "
+        ],
+        [
+            "R",
+            "O"
+        ],
+        [
+            "d",
+            "u"
+        ],
+        [
+            "T",
+            "IO:\n"
+        ],
+        [
+            "an",
+            "d"
+        ],
+        [
+            "her",
+            "e"
+        ],
+        [
+            "n",
+            "i"
+        ],
+        [
+            "p",
+            "r"
+        ],
+        [
+            "n",
+            "a"
+        ],
+        [
+            "th",
+            "an "
+        ],
+        [
+            "ET",
+            ":\n"
+        ],
+        [
+            "A",
+            "U"
+        ],
+        [
+            "ga",
+            "in"
+        ],
+        [
+            "ma",
+            "y "
+        ],
+        [
+            "le",
+            "t "
+        ],
+        [
+            "m",
+            "p"
+        ],
+        [
+            "Y",
+            " "
+        ],
+        [
+            "E",
+            " "
+        ],
+        [
+            "w",
+            " "
+        ],
+        [
+            "ll",
+            ", "
+        ],
+        [
+            "Y",
+            "ou "
+        ],
+        [
+            "mu",
+            "st "
+        ],
+        [
+            "m",
+            "b"
+        ],
+        [
+            "y",
+            ",\n"
+        ],
+        [
+            "es",
+            ", "
+        ],
+        [
+            "p",
+            "e"
+        ],
+        [
+            "com",
+            "e "
+        ],
+        [
+            "ir",
+            "st "
+        ],
+        [
+            "f",
+            "ri"
+        ],
+        [
+            "sp",
+            "ea"
+        ],
+        [
+            "the",
+            "m "
+        ],
+        [
+            "m",
+            "e, "
+        ],
+        [
+            "sh",
+            "ould "
+        ],
+        [
+            "en",
+            "d "
+        ],
+        [
+            "you",
+            ", "
+        ],
+        [
+            "K",
+            ":\n"
+        ],
+        [
+            "t",
+            "er"
+        ],
+        [
+            "en",
+            "d"
+        ],
+        [
+            "en",
+            ", "
+        ],
+        [
+            "I",
+            "f "
+        ],
+        [
+            "up",
+            "on "
+        ],
+        [
+            "sel",
+            "f"
+        ],
+        [
+            "C",
+            "A"
+        ],
+        [
+            "IC",
+            "H"
+        ],
+        [
+            "p",
+            "p"
+        ],
+        [
+            "R",
+            "ICH"
+        ],
+        [
+            "c",
+            "an"
+        ],
+        [
+            "w",
+            "hich "
+        ],
+        [
+            "D",
+            "U"
+        ],
+        [
+            "DU",
+            "K"
+        ],
+        [
+            "for",
+            "e "
+        ],
+        [
+            "DUK",
+            "E "
+        ],
+        [
+            "st",
+            "a"
+        ],
+        [
+            "m",
+            "ar"
+        ],
+        [
+            "ha",
+            "d "
+        ],
+        [
+            "h",
+            "on"
+        ],
+        [
+            "th",
+            "en "
+        ],
+        [
+            "n",
+            "ow "
+        ],
+        [
+            "h",
+            "ow "
+        ],
+        [
+            "a",
+            "c"
+        ],
+        [
+            "g",
+            "u"
+        ],
+        [
+            "v",
+            "en "
+        ],
+        [
+            "om",
+            "e"
+        ],
+        [
+            "EN",
+            "TIO:\n"
+        ],
+        [
+            "G",
+            "o"
+        ],
+        [
+            "ER",
+            ":\n"
+        ],
+        [
+            "e",
+            "y"
+        ],
+        [
+            "O",
+            " "
+        ],
+        [
+            "ow",
+            "n "
+        ],
+        [
+            "i",
+            "d "
+        ],
+        [
+            "p",
+            "la"
+        ],
+        [
+            "ow",
+            "n"
+        ],
+        [
+            "t",
+            "s "
+        ],
+        [
+            "ou",
+            "t "
+        ],
+        [
+            "es",
+            "e "
+        ],
+        [
+            "c",
+            "e, "
+        ],
+        [
+            "en",
+            "ce"
+        ],
+        [
+            "Y",
+            ":\n"
+        ],
+        [
+            "st",
+            "er"
+        ],
+        [
+            "i",
+            "g"
+        ],
+        [
+            "o",
+            "se "
+        ],
+        [
+            "O",
+            ", "
+        ],
+        [
+            "IN",
+            "C"
+        ],
+        [
+            "s",
+            "ome "
+        ],
+        [
+            "ow",
+            ", "
+        ],
+        [
+            "H",
+            "e "
+        ],
+        [
+            "r",
+            "y "
+        ],
+        [
+            "l",
+            "oo"
+        ],
+        [
+            "d",
+            "es"
+        ],
+        [
+            "fu",
+            "l "
+        ],
+        [
+            "wh",
+            "en "
+        ],
+        [
+            "a",
+            "gain"
+        ],
+        [
+            "ver",
+            "y "
+        ],
+        [
+            "ou",
+            "l"
+        ],
+        [
+            "g",
+            "ent"
+        ],
+        [
+            "kn",
+            "ow "
+        ],
+        [
+            "e",
+            "x"
+        ],
+        [
+            "v",
+            "en"
+        ],
+        [
+            "di",
+            "d "
+        ],
+        [
+            "en",
+            "ce "
+        ],
+        [
+            "A",
+            "B"
+        ],
+        [
+            "i",
+            "l"
+        ],
+        [
+            "ther",
+            "e"
+        ],
+        [
+            "W",
+            "hich "
+        ],
+        [
+            "o",
+            "p"
+        ],
+        [
+            "c",
+            "u"
+        ],
+        [
+            "a",
+            "l "
+        ],
+        [
+            "st",
+            "i"
+        ],
+        [
+            "b",
+            "u"
+        ],
+        [
+            "es",
+            "s"
+        ],
+        [
+            "su",
+            "ch "
+        ],
+        [
+            "ha",
+            "t"
+        ],
+        [
+            "I",
+            "n "
+        ],
+        [
+            "er",
+            "v"
+        ],
+        [
+            "d",
+            ":\n"
+        ],
+        [
+            "m",
+            "an "
+        ],
+        [
+            "L",
+            "O"
+        ],
+        [
+            "sa",
+            "y "
+        ],
+        [
+            "ur",
+            "e "
+        ],
+        [
+            "p",
+            "ri"
+        ],
+        [
+            "Wi",
+            "th "
+        ],
+        [
+            "ch",
+            "ar"
+        ],
+        [
+            "RICH",
+            "ARD "
+        ],
+        [
+            "F",
+            "irst "
+        ],
+        [
+            "c",
+            "oun"
+        ],
+        [
+            "ta",
+            "ke "
+        ],
+        [
+            "E",
+            "ST"
+        ],
+        [
+            "I",
+            ":\n"
+        ],
+        [
+            "c",
+            "hi"
+        ],
+        [
+            "mo",
+            "st "
+        ],
+        [
+            "d",
+            "y "
+        ],
+        [
+            "gi",
+            "ve "
+        ],
+        [
+            "p",
+            "ra"
+        ],
+        [
+            "UC",
+            "H"
+        ],
+        [
+            "O",
+            "f "
+        ],
+        [
+            "s",
+            "in"
+        ],
+        [
+            "sh",
+            " "
+        ],
+        [
+            "lor",
+            "d"
+        ],
+        [
+            "fa",
+            "ther"
+        ],
+        [
+            "dea",
+            "th"
+        ],
+        [
+            "v",
+            "o"
+        ],
+        [
+            "G",
+            "LO"
+        ],
+        [
+            "GLO",
+            "UC"
+        ],
+        [
+            "GLOUC",
+            "EST"
+        ],
+        [
+            "GLOUCEST",
+            "ER:\n"
+        ],
+        [
+            "th",
+            "at"
+        ],
+        [
+            "y",
+            "et "
+        ],
+        [
+            "th",
+            "ese "
+        ],
+        [
+            "E",
+            "EN"
+        ],
+        [
+            "T",
+            "his "
+        ],
+        [
+            "L",
+            "or"
+        ],
+        [
+            "we",
+            "ll"
+        ],
+        [
+            "M",
+            "a"
+        ],
+        [
+            "sir",
+            ", "
+        ],
+        [
+            "t",
+            ",\n"
+        ],
+        [
+            "L",
+            "I"
+        ],
+        [
+            "m",
+            "ent"
+        ],
+        [
+            "s",
+            "c"
+        ],
+        [
+            "k",
+            "ing "
+        ],
+        [
+            "lo",
+            "ve "
+        ],
+        [
+            "we",
+            "ll "
+        ],
+        [
+            "e",
+            "d"
+        ],
+        [
+            "Q",
+            "U"
+        ],
+        [
+            "QU",
+            "EEN"
+        ],
+        [
+            "V",
+            "INC"
+        ],
+        [
+            "VINC",
+            "ENTIO:\n"
+        ],
+        [
+            "M",
+            "ar"
+        ],
+        [
+            "w",
+            "hi"
+        ],
+        [
+            "C",
+            "om"
+        ],
+        [
+            "ti",
+            "on "
+        ],
+        [
+            "O",
+            "F"
+        ],
+        [
+            "OF",
+            " "
+        ],
+        [
+            "t",
+            "ed "
+        ],
+        [
+            "th",
+            "ing "
+        ],
+        [
+            "c",
+            "an "
+        ],
+        [
+            "the",
+            "m"
+        ],
+        [
+            "se",
+            "e "
+        ],
+        [
+            "t",
+            ".\n\n"
+        ],
+        [
+            "H",
+            "ow "
+        ],
+        [
+            "a",
+            "d"
+        ],
+        [
+            "b",
+            "rea"
+        ],
+        [
+            "H",
+            "EN"
+        ],
+        [
+            "sel",
+            "f "
+        ],
+        [
+            "Th",
+            "ou "
+        ],
+        [
+            "S",
+            "e"
+        ],
+        [
+            "a",
+            "ll"
+        ],
+        [
+            "an",
+            "g"
+        ],
+        [
+            "l",
+            "t "
+        ],
+        [
+            "a",
+            "f"
+        ],
+        [
+            "v",
+            "es "
+        ],
+        [
+            "g",
+            "rea"
+        ],
+        [
+            "S",
+            "o "
+        ],
+        [
+            "HEN",
+            "R"
+        ],
+        [
+            "HENR",
+            "Y "
+        ],
+        [
+            "t",
+            "u"
+        ],
+        [
+            "f",
+            "o"
+        ],
+        [
+            "'t",
+            "is "
+        ],
+        [
+            "E",
+            "S"
+        ],
+        [
+            "se",
+            "d "
+        ],
+        [
+            "r",
+            "ou"
+        ],
+        [
+            "an",
+            "y "
+        ],
+        [
+            "te",
+            "ll "
+        ],
+        [
+            "l",
+            "an"
+        ],
+        [
+            "es",
+            "\n"
+        ],
+        [
+            "I",
+            "s "
+        ],
+        [
+            "OR",
+            "I"
+        ],
+        [
+            "a",
+            "b"
+        ],
+        [
+            "g",
+            "o "
+        ],
+        [
+            "up",
+            " "
+        ],
+        [
+            "t",
+            "y "
+        ],
+        [
+            "n",
+            "g"
+        ],
+        [
+            "d",
+            "on"
+        ],
+        [
+            "se",
+            "e"
+        ],
+        [
+            "QUEEN",
+            " "
+        ],
+        [
+            "a",
+            "p"
+        ],
+        [
+            "li",
+            "f"
+        ],
+        [
+            "p",
+            "re"
+        ],
+        [
+            "es",
+            ",\n"
+        ],
+        [
+            "j",
+            "o"
+        ],
+        [
+            "E",
+            "S:\n"
+        ],
+        [
+            "u",
+            "ght"
+        ],
+        [
+            "Y",
+            "OR"
+        ],
+        [
+            "YOR",
+            "K:\n"
+        ],
+        [
+            "min",
+            "e "
+        ],
+        [
+            "Y",
+            "our "
+        ],
+        [
+            "m",
+            "er"
+        ],
+        [
+            "p",
+            "res"
+        ],
+        [
+            "k",
+            ", "
+        ],
+        [
+            "W",
+            "e "
+        ],
+        [
+            "lo",
+            "ve"
+        ],
+        [
+            "IN",
+            "IUS:\n"
+        ],
+        [
+            "to",
+            "o "
+        ],
+        [
+            "d",
+            "ee"
+        ],
+        [
+            "er",
+            ":\n"
+        ],
+        [
+            "m",
+            "y"
+        ],
+        [
+            "ther",
+            "e "
+        ],
+        [
+            "sw",
+            "ee"
+        ],
+        [
+            "j",
+            "u"
+        ],
+        [
+            "P",
+            "ET"
+        ],
+        [
+            "l",
+            "u"
+        ],
+        [
+            "I",
+            "t "
+        ],
+        [
+            "ri",
+            "e"
+        ],
+        [
+            "th",
+            ", "
+        ],
+        [
+            "ne",
+            "ver "
+        ],
+        [
+            "in",
+            "d "
+        ],
+        [
+            "d",
+            "er "
+        ],
+        [
+            "'",
+            "T"
+        ],
+        [
+            "f",
+            "ar"
+        ],
+        [
+            "R",
+            "i"
+        ],
+        [
+            "E",
+            "D"
+        ],
+        [
+            "ED",
+            "W"
+        ],
+        [
+            "ma",
+            "de "
+        ],
+        [
+            "er",
+            ", "
+        ],
+        [
+            "er",
+            "s "
+        ],
+        [
+            "G",
+            "R"
+        ],
+        [
+            "Wh",
+            "y, "
+        ],
+        [
+            ",",
+            "--"
+        ],
+        [
+            "T",
+            "H"
+        ],
+        [
+            "t",
+            "ra"
+        ],
+        [
+            "ar",
+            "t "
+        ],
+        [
+            "t",
+            "er "
+        ],
+        [
+            "U",
+            "M"
+        ],
+        [
+            "M",
+            "I"
+        ],
+        [
+            "p",
+            "lea"
+        ],
+        [
+            "c",
+            "o"
+        ],
+        [
+            "M",
+            "EN"
+        ],
+        [
+            "an",
+            "t"
+        ],
+        [
+            "L",
+            "E"
+        ],
+        [
+            "L",
+            "UC"
+        ],
+        [
+            "ti",
+            "me "
+        ],
+        [
+            "s",
+            "s"
+        ],
+        [
+            "ong",
+            " "
+        ],
+        [
+            "I",
+            "S"
+        ],
+        [
+            "u",
+            "se "
+        ],
+        [
+            "l",
+            "ess "
+        ],
+        [
+            "EL",
+            "L"
+        ],
+        [
+            "m",
+            "on"
+        ],
+        [
+            "'",
+            "st "
+        ],
+        [
+            "h",
+            "ear "
+        ],
+        [
+            "con",
+            "d "
+        ],
+        [
+            "li",
+            "e"
+        ],
+        [
+            "no",
+            "ble "
+        ],
+        [
+            "mu",
+            "ch "
+        ],
+        [
+            "qu",
+            "e"
+        ],
+        [
+            "do",
+            "th "
+        ],
+        [
+            "can",
+            "not "
+        ],
+        [
+            "t",
+            "w"
+        ],
+        [
+            "ur",
+            "se"
+        ],
+        [
+            "E",
+            "d"
+        ],
+        [
+            "M",
+            "E"
+        ],
+        [
+            "h",
+            "ou"
+        ],
+        [
+            "ha",
+            "t, "
+        ],
+        [
+            "i",
+            "ti"
+        ],
+        [
+            "i",
+            "d"
+        ],
+        [
+            "bl",
+            "oo"
+        ],
+        [
+            "Ed",
+            "war"
+        ],
+        [
+            "RO",
+            "ME"
+        ],
+        [
+            "ROME",
+            "O:\n"
+        ],
+        [
+            "MEN",
+            "EN"
+        ],
+        [
+            "MENEN",
+            "IUS:\n"
+        ],
+        [
+            "O",
+            "r "
+        ],
+        [
+            "N",
+            "o"
+        ],
+        [
+            "k",
+            "s "
+        ],
+        [
+            "p",
+            "ea"
+        ],
+        [
+            "kn",
+            "ow"
+        ],
+        [
+            "you",
+            "r"
+        ],
+        [
+            "s",
+            ":\n"
+        ],
+        [
+            "tt",
+            "er "
+        ],
+        [
+            "k",
+            "e"
+        ],
+        [
+            "B",
+            "y "
+        ],
+        [
+            "a",
+            "wa"
+        ],
+        [
+            "bro",
+            "ther"
+        ],
+        [
+            "a",
+            "y, "
+        ],
+        [
+            "th",
+            "ing"
+        ],
+        [
+            "w",
+            "om"
+        ],
+        [
+            "b",
+            "ea"
+        ],
+        [
+            "PET",
+            "R"
+        ],
+        [
+            "PETR",
+            "UCH"
+        ],
+        [
+            "PETRUCH",
+            "IO:\n"
+        ],
+        [
+            "B",
+            "e"
+        ],
+        [
+            "O",
+            "M"
+        ],
+        [
+            "s",
+            "on "
+        ],
+        [
+            "thin",
+            "k "
+        ],
+        [
+            "ti",
+            "me"
+        ],
+        [
+            "b",
+            "an"
+        ],
+        [
+            "pr",
+            "in"
+        ],
+        [
+            "W",
+            "e"
+        ],
+        [
+            "l",
+            "d"
+        ],
+        [
+            "Go",
+            "d "
+        ],
+        [
+            "w",
+            "here "
+        ],
+        [
+            "Wh",
+            "en "
+        ],
+        [
+            "an",
+            "t "
+        ],
+        [
+            "the",
+            "e, "
+        ],
+        [
+            "lor",
+            "d, "
+        ],
+        [
+            "s",
+            "ea"
+        ],
+        [
+            "A",
+            "y, "
+        ],
+        [
+            "ne",
+            "w"
+        ],
+        [
+            "s",
+            "hi"
+        ],
+        [
+            "s",
+            "er"
+        ],
+        [
+            "Com",
+            "e, "
+        ],
+        [
+            "M",
+            "AR"
+        ],
+        [
+            "H",
+            "A"
+        ],
+        [
+            "ON",
+            "T"
+        ],
+        [
+            "r",
+            "e "
+        ],
+        [
+            "ll",
+            "ow"
+        ],
+        [
+            "n",
+            "ow"
+        ],
+        [
+            "C",
+            "l"
+        ],
+        [
+            "W",
+            "here "
+        ],
+        [
+            "be",
+            "en "
+        ],
+        [
+            "t",
+            "or"
+        ],
+        [
+            "C",
+            "ORI"
+        ],
+        [
+            "CORI",
+            "OL"
+        ],
+        [
+            "CORIOL",
+            "AN"
+        ],
+        [
+            "Se",
+            "cond "
+        ],
+        [
+            "wi",
+            "th"
+        ],
+        [
+            "spea",
+            "k "
+        ],
+        [
+            "t",
+            "oo"
+        ],
+        [
+            "n",
+            "or "
+        ],
+        [
+            "R",
+            "ome"
+        ],
+        [
+            "CORIOLAN",
+            "US:\n"
+        ],
+        [
+            "o",
+            "ther "
+        ],
+        [
+            "at",
+            "e "
+        ],
+        [
+            "z",
+            "en"
+        ],
+        [
+            "be",
+            "ing "
+        ],
+        [
+            "b",
+            "le"
+        ],
+        [
+            "s",
+            "or"
+        ],
+        [
+            "da",
+            "m"
+        ],
+        [
+            "t",
+            "ri"
+        ],
+        [
+            "c",
+            "row"
+        ],
+        [
+            "h",
+            "ar"
+        ],
+        [
+            "c",
+            "t "
+        ],
+        [
+            "s",
+            ";\n"
+        ],
+        [
+            "th",
+            "i"
+        ],
+        [
+            "v",
+            "e, "
+        ],
+        [
+            "f",
+            "oo"
+        ],
+        [
+            "B",
+            "A"
+        ],
+        [
+            "of",
+            "f"
+        ],
+        [
+            "fa",
+            "ir "
+        ],
+        [
+            "m",
+            "en"
+        ],
+        [
+            "g",
+            "oo"
+        ],
+        [
+            "t",
+            "ur"
+        ],
+        [
+            "i",
+            "sh"
+        ],
+        [
+            "t",
+            "e "
+        ],
+        [
+            "o",
+            "ld "
+        ],
+        [
+            "oun",
+            "d "
+        ],
+        [
+            "g",
+            "ar"
+        ],
+        [
+            "da",
+            "ught"
+        ],
+        [
+            "gent",
+            "le"
+        ],
+        [
+            "d",
+            "'s "
+        ],
+        [
+            "IN",
+            "A:\n"
+        ],
+        [
+            "r",
+            "ow "
+        ],
+        [
+            "t",
+            "un"
+        ],
+        [
+            "v",
+            "ing "
+        ],
+        [
+            "Lor",
+            "d "
+        ],
+        [
+            "I",
+            "V"
+        ],
+        [
+            "D",
+            ":\n"
+        ],
+        [
+            "'",
+            "er "
+        ],
+        [
+            "f",
+            "l"
+        ],
+        [
+            "f",
+            "ear"
+        ],
+        [
+            "II",
+            "I:\n"
+        ],
+        [
+            "v",
+            "ed "
+        ],
+        [
+            "Th",
+            "an "
+        ],
+        [
+            "ni",
+            "ght"
+        ],
+        [
+            "n",
+            "ess "
+        ],
+        [
+            "c",
+            "ar"
+        ],
+        [
+            "a",
+            "s"
+        ],
+        [
+            "b",
+            "ra"
+        ],
+        [
+            "b",
+            "r"
+        ],
+        [
+            "y",
+            ".\n"
+        ],
+        [
+            "man",
+            ":\n"
+        ],
+        [
+            "W",
+            "ar"
+        ],
+        [
+            "grea",
+            "t "
+        ],
+        [
+            "e",
+            "ver "
+        ],
+        [
+            "w",
+            "ee"
+        ],
+        [
+            "War",
+            "wi"
+        ],
+        [
+            "s",
+            "; "
+        ],
+        [
+            "swee",
+            "t "
+        ],
+        [
+            "st",
+            ", "
+        ],
+        [
+            "p",
+            "i"
+        ],
+        [
+            "con",
+            "t"
+        ],
+        [
+            "U",
+            "n"
+        ],
+        [
+            "c",
+            "l"
+        ],
+        [
+            "be",
+            "g"
+        ],
+        [
+            "y",
+            "s "
+        ],
+        [
+            "ong",
+            "u"
+        ],
+        [
+            "s",
+            "la"
+        ],
+        [
+            "H",
+            "is "
+        ],
+        [
+            "ing",
+            ", "
+        ],
+        [
+            "A",
+            "D"
+        ],
+        [
+            "s",
+            "wor"
+        ],
+        [
+            "'T",
+            "is "
+        ],
+        [
+            "IS",
+            "AB"
+        ],
+        [
+            "ISAB",
+            "ELL"
+        ],
+        [
+            "ISABELL",
+            "A:\n"
+        ],
+        [
+            "y",
+            ":\n"
+        ],
+        [
+            "ha",
+            "st "
+        ],
+        [
+            "po",
+            "or "
+        ],
+        [
+            "d",
+            "; "
+        ],
+        [
+            "t",
+            "ongu"
+        ],
+        [
+            "Wh",
+            "o "
+        ],
+        [
+            "y",
+            "; "
+        ],
+        [
+            "p",
+            "ow"
+        ],
+        [
+            "R",
+            "AN"
+        ],
+        [
+            "c",
+            "or"
+        ],
+        [
+            "'",
+            "t "
+        ],
+        [
+            "wh",
+            "o "
+        ],
+        [
+            "re",
+            "d "
+        ],
+        [
+            "a",
+            "in"
+        ],
+        [
+            "L",
+            "et "
+        ],
+        [
+            "him",
+            ", "
+        ],
+        [
+            "m",
+            "en "
+        ],
+        [
+            "no",
+            "t, "
+        ],
+        [
+            "it",
+            ", "
+        ],
+        [
+            "t",
+            "en"
+        ],
+        [
+            "c",
+            "ha"
+        ],
+        [
+            "An",
+            "d, "
+        ],
+        [
+            "k",
+            "ee"
+        ],
+        [
+            "man",
+            "y "
+        ],
+        [
+            "th",
+            "an"
+        ],
+        [
+            "J",
+            "U"
+        ],
+        [
+            "JU",
+            "LI"
+        ],
+        [
+            "JULI",
+            "ET:\n"
+        ],
+        [
+            "LE",
+            "ONT"
+        ],
+        [
+            "LEONT",
+            "ES:\n"
+        ],
+        [
+            "e",
+            "'s "
+        ],
+        [
+            "d",
+            ";\n"
+        ],
+        [
+            "k",
+            "in"
+        ],
+        [
+            "com",
+            "es "
+        ],
+        [
+            "B",
+            "u"
+        ],
+        [
+            "en",
+            "g"
+        ],
+        [
+            "be",
+            "fore "
+        ],
+        [
+            "u",
+            "l"
+        ],
+        [
+            "li",
+            "tt"
+        ],
+        [
+            "ear",
+            "s "
+        ],
+        [
+            "L",
+            "AD"
+        ],
+        [
+            "LAD",
+            "Y "
+        ],
+        [
+            "en",
+            "e"
+        ],
+        [
+            "it",
+            "y "
+        ],
+        [
+            "c",
+            "our"
+        ],
+        [
+            "V",
+            "OL"
+        ],
+        [
+            "the",
+            "e"
+        ],
+        [
+            "P",
+            "ro"
+        ],
+        [
+            "s",
+            "le"
+        ],
+        [
+            "EN",
+            "C"
+        ],
+        [
+            "ENC",
+            "E:\n"
+        ],
+        [
+            "p",
+            "ur"
+        ],
+        [
+            "ce",
+            ",\n"
+        ],
+        [
+            "B",
+            "R"
+        ],
+        [
+            "s",
+            ".\n"
+        ],
+        [
+            "Th",
+            "en "
+        ],
+        [
+            "st",
+            "er "
+        ],
+        [
+            "C",
+            "iti"
+        ],
+        [
+            "Citi",
+            "zen"
+        ],
+        [
+            "thou",
+            "gh "
+        ],
+        [
+            "s",
+            ": "
+        ],
+        [
+            "fri",
+            "end"
+        ],
+        [
+            "se",
+            ", "
+        ],
+        [
+            "y",
+            "'s "
+        ],
+        [
+            "d",
+            "st "
+        ],
+        [
+            "h",
+            "or"
+        ],
+        [
+            "no",
+            "t"
+        ],
+        [
+            "ck",
+            ", "
+        ],
+        [
+            "li",
+            "fe"
+        ],
+        [
+            "h",
+            "and"
+        ],
+        [
+            "Th",
+            "e"
+        ],
+        [
+            "t",
+            "ch"
+        ],
+        [
+            "S",
+            "erv"
+        ],
+        [
+            "N",
+            "ay, "
+        ],
+        [
+            "tt",
+            "er"
+        ],
+        [
+            "me",
+            "an"
+        ],
+        [
+            "S",
+            "IC"
+        ],
+        [
+            "SIC",
+            "INIUS:\n"
+        ],
+        [
+            "W",
+            "hat, "
+        ],
+        [
+            "s",
+            "oul"
+        ],
+        [
+            "ve",
+            "\n"
+        ],
+        [
+            "hat",
+            "'s "
+        ],
+        [
+            "on",
+            "e"
+        ],
+        [
+            "S",
+            "ha"
+        ],
+        [
+            "hon",
+            "our"
+        ],
+        [
+            "sp",
+            "i"
+        ],
+        [
+            "e",
+            "p"
+        ],
+        [
+            "f",
+            "t "
+        ],
+        [
+            "w",
+            "o"
+        ],
+        [
+            "fa",
+            "ther "
+        ],
+        [
+            "an",
+            "ce "
+        ],
+        [
+            "wi",
+            "ll"
+        ],
+        [
+            "k",
+            "es "
+        ],
+        [
+            "ig",
+            "n"
+        ],
+        [
+            "ar",
+            "m"
+        ],
+        [
+            "an",
+            "d\n"
+        ],
+        [
+            "an",
+            "d, "
+        ],
+        [
+            "loo",
+            "k "
+        ],
+        [
+            "lea",
+            "ve "
+        ],
+        [
+            "on",
+            ", "
+        ],
+        [
+            "N",
+            "o, "
+        ],
+        [
+            "da",
+            "y "
+        ],
+        [
+            "g",
+            "rie"
+        ],
+        [
+            "you",
+            "ng"
+        ],
+        [
+            "i",
+            "ll "
+        ],
+        [
+            "he",
+            "l"
+        ],
+        [
+            "him",
+            ".\n\n"
+        ],
+        [
+            "B",
+            "e "
+        ],
+        [
+            "ci",
+            "ous "
+        ],
+        [
+            "c",
+            "ou"
+        ],
+        [
+            "again",
+            "st "
+        ],
+        [
+            "ti",
+            "ll "
+        ],
+        [
+            "b",
+            "ear "
+        ],
+        [
+            "di",
+            "s"
+        ],
+        [
+            "ur",
+            "der"
+        ],
+        [
+            "LUC",
+            "IO:\n"
+        ],
+        [
+            "No",
+            "t "
+        ],
+        [
+            "su",
+            "b"
+        ],
+        [
+            "ca",
+            "ll "
+        ],
+        [
+            "T",
+            "I"
+        ],
+        [
+            "i",
+            "m"
+        ],
+        [
+            "th",
+            "ose "
+        ],
+        [
+            "to",
+            "-"
+        ],
+        [
+            "Ri",
+            "char"
+        ],
+        [
+            "EDW",
+            "ARD "
+        ],
+        [
+            "IV",
+            ":\n"
+        ],
+        [
+            "c",
+            "ur"
+        ],
+        [
+            "the",
+            "\n"
+        ],
+        [
+            "w",
+            "r"
+        ],
+        [
+            "ARD",
+            ":\n"
+        ],
+        [
+            "L",
+            "O:\n"
+        ],
+        [
+            "st",
+            "r"
+        ],
+        [
+            "bo",
+            "th "
+        ],
+        [
+            "ho",
+            "p"
+        ],
+        [
+            "ta",
+            "l"
+        ],
+        [
+            "you",
+            ".\n\n"
+        ],
+        [
+            "Ha",
+            "ve "
+        ],
+        [
+            "d",
+            "ly "
+        ],
+        [
+            "mo",
+            "ther"
+        ],
+        [
+            "r",
+            "y, "
+        ],
+        [
+            "Y",
+            "or"
+        ],
+        [
+            "spea",
+            "k"
+        ],
+        [
+            "C",
+            "a"
+        ],
+        [
+            "re",
+            "p"
+        ],
+        [
+            "it",
+            ".\n\n"
+        ],
+        [
+            "H",
+            "er"
+        ],
+        [
+            "in",
+            "e "
+        ],
+        [
+            "N",
+            "ow "
+        ],
+        [
+            "Th",
+            "y "
+        ],
+        [
+            "H",
+            "en"
+        ],
+        [
+            "H",
+            ":\n"
+        ],
+        [
+            "wa",
+            "y "
+        ],
+        [
+            "st",
+            "and "
+        ],
+        [
+            "ce",
+            "\n"
+        ],
+        [
+            "EL",
+            "I"
+        ],
+        [
+            "ELI",
+            "Z"
+        ],
+        [
+            "ELIZ",
+            "AB"
+        ],
+        [
+            "ELIZAB",
+            "ET"
+        ],
+        [
+            "ELIZABET",
+            "H:\n"
+        ],
+        [
+            "f",
+            "ir"
+        ],
+        [
+            "th",
+            "us "
+        ],
+        [
+            "b",
+            "es"
+        ],
+        [
+            "re",
+            "e "
+        ],
+        [
+            "b",
+            "ur"
+        ],
+        [
+            "ou",
+            "l "
+        ],
+        [
+            "o",
+            "' "
+        ],
+        [
+            "S",
+            "ir"
+        ],
+        [
+            "h",
+            "us"
+        ],
+        [
+            "ro",
+            "y"
+        ],
+        [
+            "GR",
+            "E"
+        ],
+        [
+            "I",
+            "AN"
+        ],
+        [
+            "pe",
+            "op"
+        ],
+        [
+            "un",
+            "to "
+        ],
+        [
+            "s",
+            "en"
+        ],
+        [
+            "ll",
+            "ow "
+        ],
+        [
+            "ca",
+            "use "
+        ],
+        [
+            "se",
+            "t "
+        ],
+        [
+            "d",
+            "d"
+        ],
+        [
+            "t",
+            "'s "
+        ],
+        [
+            "d",
+            "ou"
+        ],
+        [
+            "S",
+            " "
+        ],
+        [
+            "s",
+            "s "
+        ],
+        [
+            "C",
+            "L"
+        ],
+        [
+            "litt",
+            "le "
+        ],
+        [
+            "l",
+            ", "
+        ],
+        [
+            "tru",
+            "e "
+        ],
+        [
+            "ha",
+            "pp"
+        ],
+        [
+            "M",
+            "ER"
+        ],
+        [
+            "P",
+            "ER"
+        ],
+        [
+            "d",
+            ".\n"
+        ],
+        [
+            "f",
+            "f"
+        ],
+        [
+            "ce",
+            "i"
+        ],
+        [
+            "com",
+            "p"
+        ],
+        [
+            "N",
+            "ow, "
+        ],
+        [
+            "qu",
+            "i"
+        ],
+        [
+            "G",
+            "ood "
+        ],
+        [
+            "W",
+            "AR"
+        ],
+        [
+            "WAR",
+            "W"
+        ],
+        [
+            "WARW",
+            "IC"
+        ],
+        [
+            "WARWIC",
+            "K:\n"
+        ],
+        [
+            "Citizen",
+            ":\n"
+        ],
+        [
+            "t",
+            "ing "
+        ],
+        [
+            "crow",
+            "n"
+        ],
+        [
+            "l",
+            "and"
+        ],
+        [
+            "a",
+            "m"
+        ],
+        [
+            "U",
+            "T"
+        ],
+        [
+            "II",
+            ":\n"
+        ],
+        [
+            "--",
+            "\n"
+        ],
+        [
+            "th",
+            "is"
+        ],
+        [
+            "'",
+            "d\n"
+        ],
+        [
+            "d",
+            "rea"
+        ],
+        [
+            "N",
+            "urse"
+        ],
+        [
+            "se",
+            "\n"
+        ],
+        [
+            "er",
+            ".\n\n"
+        ],
+        [
+            "n",
+            "ow, "
+        ],
+        [
+            "w",
+            "in"
+        ],
+        [
+            "com",
+            "e, "
+        ],
+        [
+            "HA",
+            "M"
+        ],
+        [
+            "HAM",
+            ":\n"
+        ],
+        [
+            "N",
+            "o "
+        ],
+        [
+            "n",
+            "at"
+        ],
+        [
+            "or",
+            "e "
+        ],
+        [
+            "e",
+            "c"
+        ],
+        [
+            "hear",
+            "t "
+        ],
+        [
+            "CA",
+            "P"
+        ],
+        [
+            "CAP",
+            "U"
+        ],
+        [
+            "CAPU",
+            "L"
+        ]
+    ]
+}
