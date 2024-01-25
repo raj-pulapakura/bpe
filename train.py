@@ -1,7 +1,5 @@
 import json
-
-def load_corpus() -> str:
-    return open("shakespeare.txt", "r", encoding="utf-8").read()
+import argparse
 
 class BPETokenizer:
     def __init__(self):
@@ -188,19 +186,33 @@ class BPETokenizer:
         
         self._has_trained = True
 
+
+def load_corpus(path) -> str:
+    return open(path, "r", encoding="utf-8").read()
+
+
 if __name__ == "__main__":
 
+    # get arguments
+    parser = argparse.ArgumentParser(description="Byte-Pair Encoding | Sub-word Tokenization")
+    parser.add_argument("--num-merges", "-m", default=1000, help="Number of merges to compute (the number of new words to add to the init vocab)")
+    parser.add_argument("--corpus", "-c", default="shakespeare.txt", help="Path to the corpus of text to train on (.txt file)")
+
+    args = parser.parse_args()
+    num_merges = args.num_merges
+    corpus_path = args.corpus
+
     # load corpus
-    corpus = load_corpus()
-    print("✅ Loaded corpus.")
+    corpus = load_corpus(corpus_path)
+    print(f"✅ Loaded corpus from {corpus_path}")
     print(f"Number of chars: {len(corpus)}")
     print(f"Approx. number of words: {len(corpus.split(' '))}")
     print(f"Approx. number of unique words: {len(set(corpus.split(' ')))}")
 
     # train tokenizer
     tokenizer = BPETokenizer()
-    print("\n🥷 Training tokenizer:\n")
-    tokenizer.train(corpus, num_merges=10000, verbose=True)
+    print(f"\n🥷 Training tokenizer ({num_merges} merges):\n")
+    tokenizer.train(corpus, num_merges=int(num_merges), verbose=True)
 
     # save tokenizer vocab and merge rules to json
     print("\n🚀 Saving tokenizer")

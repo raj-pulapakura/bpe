@@ -1,4 +1,4 @@
-from bpe import BPETokenizer
+from train import BPETokenizer
 
 tokenizer = BPETokenizer()
 tokenizer.load_from_json("tokenizer.json")
