@@ -69,10 +69,10 @@ To train a new tokenizer, run the `train.py` script, specifying the *\*number of
 python train.py -m 2000
 ```
 
-The tokenizer will be trained by default on the `shakespeare.txt` corpus which is already loaded in the directory, but you can swap this out for your own text corpus, as long as it's in a txt file. If you do choose to train on your own corpus, make sure you point to the corpus using the `-t` command:
+The tokenizer will be trained by default on the `shakespeare.txt` corpus which is already loaded in the directory, but you can swap this out for your own text corpus, as long as it's in a txt file. If you do choose to train on your own corpus, make sure you point to the corpus using the `-c` command:
 
 ```
-python train.py -m 2000 -p amazon_reviews.txt
+python train.py -m 2000 -c amazon_reviews.txt
 ```
 
 ## 🧶 Algorithm Overview
